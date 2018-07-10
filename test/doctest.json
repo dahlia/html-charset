@@ -1,0 +1,8 @@
+{
+  "ignore": [],
+  "sourceFolders": [
+    "app",
+    "src",
+    "src/Text/Html/Encoding"
+  ]
+}

@@ -5,7 +5,7 @@ category: Web
 author: Hong Minhee <hong.minhee@gmail.com>
 maintainer: Hong Minhee <hong.minhee@gmail.com>
 copyright: (c) 2018 Hong Minhee
-license: LGPL-2
+license: LGPL-2.1
 github: dahlia/html-charset
 extra-source-files:
 - CHANGES.md

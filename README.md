@@ -41,6 +41,8 @@ Note that the `detect` function takes a lazy bytestring, not strict.
 
 Read the [API docs] for details.
 
+[API docs]: https://hackage.haskell.org/package/html-charset/docs/Text-Html-Encoding-Detection.html
+
 
 CLI
 ---
@@ -63,7 +65,7 @@ You can customize the string to print when it fails by configuring
 Author and license
 ------------------
 
-Witten by [Hong Minhee].  Licensed under [LGPLv2] or higher.
+Witten by [Hong Minhee].  Licensed under [LGPL 2.1] or higher.
 
 [Hong Minhee]: https://hongminhee.org/
-[LGPLv2]: https://www.gnu.org/licenses/lgpl-2.1.html
+[LGPL 2.1]: https://www.gnu.org/licenses/lgpl-2.1.html

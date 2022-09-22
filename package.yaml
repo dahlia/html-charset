@@ -56,4 +56,4 @@ tests:
     ghc-options:
     - -threaded
     dependencies:
-    - hlint >= 2.1.7 && < 2.2
+    - hlint >= 2.1.7

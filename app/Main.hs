@@ -1,7 +1,5 @@
 module Main where
 
-import Data.Semigroup ((<>))
-
 import qualified Data.ByteString.Lazy
 import Options.Applicative
 

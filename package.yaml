@@ -14,7 +14,6 @@ description: ! >
   Please see the README.md on GitHub at
   <https://github.com/dahlia/html-charset#readme>.
 ghc-options:
-- -Werror
 - -Wall
 - -fwarn-incomplete-uni-patterns
 - -fprint-explicit-kinds

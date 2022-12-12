@@ -1,10 +1,10 @@
 name: html-charset
-version: 0.1.0
+version: 0.1.1
 synopsis: Determine character encoding of HTML documents/fragments
 category: Web
-author: Hong Minhee <hong.minhee@gmail.com>
-maintainer: Hong Minhee <hong.minhee@gmail.com>
-copyright: (c) 2018 Hong Minhee
+author: Hong Minhee <hong@minhee.org>
+maintainer: Hong Minhee <hong@minhee.org>
+copyright: © 2018–2022 Hong Minhee
 license: LGPL-2.1
 github: dahlia/html-charset
 extra-source-files:
